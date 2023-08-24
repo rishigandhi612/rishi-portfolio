@@ -1,0 +1,19 @@
+{
+    "name": "Rishi Gandhi",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "country": "India",
+    "short_bio":"Passionate self-taught frontend developer with solid HTML, CSS, and JavaScript skills. Eager to contribute innovative ideas and quickly adapt to new challenges. Seeking opportunities to create user-friendly and visually appealing websites.",
+    "bio": "As a new frontend developer, I am eager to start my career in the exciting field of web development. I have a passion for creating user-friendly and visually appealing websites, and I am eager to continue learning and growing my skills.Although I do not have any professional experience in frontend development, I have been learning the necessary tools and technologies on my own. I have a strong foundation in HTML, CSS, and JavaScript, and I am constantly exploring new frameworks and libraries to expand my knowledge.I am a quick learner and am always looking for new challenges to tackle. I believe that my passion for frontend development and my eagerness to learn will help me make a valuable contribution to any development team. I am excited to start my career and look forward to the opportunity to bring my ideas to life.",
+    "email": "rishigandhi021@gmail.com",
+    "image_url": "https://media.licdn.com/dms/image/D4D03AQGHfsyop4BX0g/profile-displayphoto-shrink_200_200/0/1672858513526?e=1698278400&v=beta&t=42BBt5Cnr1WNr-QO2z6dQ2hOJRdg3_3JejlrRP9i4oA",
+    "social_links": {
+      "linkedin": "https://www.linkedin.com/in/rishi-gandhi-5b4a1b234/",
+      "twitter": "https://twitter.com/_gandhigiri_",
+      "facebook": "https://www.facebook.com/roguerevengeburn/",
+      "instagram": "https://www.instagram.com/_gandhi.giri_/",
+      "youtube": "https://www.youtube.com/channel/UCyoPzejI2Ls8-zokHdsQ-Qg",
+      "github": "https://github.com/gandhirishi123"
+    },
+    "skills": ["HTML:5", "CSS:3", "JavaScript", "Embedded C", "MySQL", "Data Structures", "C++", "Java"]
+  }
