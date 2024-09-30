@@ -17,6 +17,7 @@ export default {
       navItems: [
         { text: 'Home', link: '/' },
         { text: 'Projects', link: '/project' },
+        { text: 'Experience', link: '/experience' },
         { text: 'About', link: '/about' }
       ],
     };

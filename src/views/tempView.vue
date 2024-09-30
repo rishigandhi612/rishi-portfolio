@@ -50,20 +50,7 @@
         experience: [],
       };
     },
-    created() {
-      this.getVolunteerExperience();
-    },
-    methods: {
-      async getVolunteerExperience() {
-        try {
-          const response = await fetch('https://raw.githubusercontent.com/gandhirishi123/volunteerdata/main/community.json');
-          const data = await response.json();
-          this.experience = data;
-        } catch (error) {
-          console.error(error);
-        }
-      },
-    },
+    
   };
   </script>
   

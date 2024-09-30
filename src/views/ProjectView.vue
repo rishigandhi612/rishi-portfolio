@@ -12,7 +12,7 @@
       <!-- Cards Row -->
       <v-row>
         <v-col v-for="project in projects" :key="project.title" cols="12" md="4">
-          <v-card  class="pa-5" style="display: flex;flex-direction: column;justify-content: space-between; background-color: white; border-radius: 15px; border: 0;"
+          <v-card  class="pa-5" style=" height: 100%;!important display: flex;flex-direction: column;justify-content: space-between; background-color: white; border-radius: 15px; border: 0;"
             elevation="0" outlined>
             
             <p style="font-size: 120%; font-weight: 600;">{{ project.title }}</p> 
